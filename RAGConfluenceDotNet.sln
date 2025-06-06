@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAGConfluenceDotNet", "RAGConfluenceDotNet.csproj", "{834E522F-2171-4BF7-9E91-2505992C9D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834E522F-2171-4BF7-9E91-2505992C9D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834E522F-2171-4BF7-9E91-2505992C9D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834E522F-2171-4BF7-9E91-2505992C9D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834E522F-2171-4BF7-9E91-2505992C9D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC978647-C2AF-470E-95EB-31C3846E4E7F}
+	EndGlobalSection
+EndGlobal
